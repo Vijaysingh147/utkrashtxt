@@ -11,15 +11,15 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "7099461621:AAHXFf2xq5Il41WD2Q-fOlMQXzCS3e3_9QQ"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "23004101"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "a2e157e87728053027cbb156e41a832a"
     }
   },
   "addons": [
